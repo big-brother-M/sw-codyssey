@@ -672,6 +672,8 @@ Initialized empty Git repository in /Users/seongwoo/Documents/sw-codyssey/workst
  create mode 100644 perm_file.txt
  create mode 100644 site/index.html
 
+ docs/images/github-repo.png에 첨부했습니다.
+
 ## 15. VS Code GitHub 연동 증거
 
 ## 16. 트러블슈팅
