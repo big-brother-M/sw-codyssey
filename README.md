@@ -72,7 +72,7 @@ workstation-mission/
 ```bash
 # 디렉터리 생성
 mkdir cli-practice
-mkdir -p workstation-mission
+mkdir workstation-mission
 cd workstation-mission
 mkdir -p docs/images
 mkdir site
